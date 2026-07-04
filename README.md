@@ -37,5 +37,5 @@ Repository documenting my Python for Data Science journey — weekly notebooks, 
 ## 👩‍💻 Author
 **Harshitha BM**  
 📍 B.E in Artificial Intelligence and Data Science  
-📫 [LinkedIn Profile](www.linkedin.com/in/harshitha-bm-ai)
+📫 [LinkedIn Profile](www.linkedin.com/in/harshitha-bm-ds)
 
