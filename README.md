@@ -9,21 +9,21 @@ Repository documenting my Python for Data Science journey — weekly notebooks, 
 ### 🗓️ Week 1 – Python Basics
 - Topics: Datatypes, Strings, Conditional Statements  
 - Mini Project: **Student Grade Evaluator**
-- File: [Week1_Python_Basics.ipynb](Week1_Python_Basics.ipynb)
+- File: [01_Python_Basics.ipynb](01_Python_Basics.ipynb)
 
 ---
 
 ### 🔁 Week 2 – Loops in Python
 - Topics: For loops, While loops, Nested loops, Pattern printing  
 - Mini Project: **Number Guessing Game**
-- File: [Week2_Loops.ipynb](Week2_Loops.ipynb)
+- File: [02_Loops_in_Python.ipynb](02_Loops_in_Python.ipynb)
 
 ---
 
 ### 🧩 Week 3 – OOPs in Python
 - Topics: Classes, Objects, Inheritance, Polymorphism, Encapsulation  
 - Mini Project: **Library Management System**
-- File: [Week3_OOPs_in_Python.ipynb](Week3_OOPs_in_Python.ipynb)
+- File: [03_OOPs_in_Python.ipynb](03_OOPs_in_Python.ipynb)
 
 ---
 
